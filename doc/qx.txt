@@ -1,0 +1,22 @@
+vmess=113.207.102.86:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p207.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=日本 01
+vmess=113.207.102.63:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p3.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=美国 01 nf
+vmess=125.39.174.23:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p8.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=台湾 04 nf
+vmess=125.39.174.99:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p201.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 01
+vmess=113.207.102.28:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p211.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 05 nf
+vmess=125.39.174.149:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p208.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=日本 02
+vmess=113.207.102.65:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p2.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 08
+vmess=119.188.97.173:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p204.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 04
+vmess=125.39.174.160:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p5.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=韩国 02
+vmess=122.190.3.47:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p29.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=日本 04
+vmess=119.188.97.3:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p212.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 06 nf
+vmess=125.39.174.176:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p202.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 02
+vmess=113.207.102.31:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p4.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=韩国 01
+vmess=125.39.174.50:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p28.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=日本 03
+vmess=119.188.97.101:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p7.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=台湾 03 nf
+vmess=113.207.102.3:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p9.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=美国 02 nf
+vmess=113.207.102.156:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p1.uxfeng.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 07
+vmess=113.207.102.46:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p209.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=台湾 01 nf
+vmess=125.39.174.97:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p203.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=香港 03
+vmess=122.190.3.155:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p210.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=台湾 02 nf
+vmess=119.188.97.52:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p206.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=新加坡 02
+vmess=119.188.97.137:80, method=chacha20-ietf-poly1305, password=f49f218e-564c-3c52-80f9-8aef8786aaaf, obfs-host=p205.wuyiauto.com, obfs=ws, obfs-uri=/user,fast-open=false, udp-relay=false, tag=新加坡 01
